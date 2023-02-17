@@ -1,11 +1,14 @@
 # ✨ Hello , Welcome to my profile ✨
 ## - Im a 17 yo french students 📚
 ## - like devlopment in general 😎
-## - Im currently working on a discord minitoring bot and thinking about dev an audio routing software 🤔
+## - Im currently working on a discord monitoring bot and thinking about dev an audio routing software 🤔
 ### Here is a quick lookup of my works ↩
-![gits](https://gists-readme.yizack.com/api?user=RealColorDream)
+<a href = "https://github.com/RealColorDream/Projects"><img src= "https://img.shields.io/badge/Projects-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=RealColorDream&theme={github})
+
+---
+
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=RealColorDream&theme=github)
 
 ---
 
@@ -16,7 +19,6 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
-
 
 ### IDE / Code Editors Im using
 
