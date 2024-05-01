@@ -1,7 +1,7 @@
 # ✨ Hello , Welcome to my profile ✨
 ## - Im a ((17)+ 1) yo french students 📚
 ## - like devlopment in general 😎
-## - Im currently working on a discord monitoring bot and thinking about dev an audio routing software 🤔
+## - Im currently working on a terminal based minesweeper (TUI) and thinking about dev an audio routing software 🤔
 ### Here is my website 🌐:
 <a href = "https://realcolordream.github.io/">https://realcolordream.github.io/</a>
 ### Here is a quick lookup of my works ↩
